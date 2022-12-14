@@ -1,0 +1,5 @@
+O scanner de vulnerabilidade Nessus é exatamente o que você pensa que é! Um scanner de vulnerabilidade!
+Ele usa técnicas semelhantes ao Nmap para encontrar e relatar vulnerabilidades, que são então apresentadas em uma bela GUI para que possamos olhar.
+Download:  https://www.tenable.com/products/nessus/nessus-essentials
+To start: /bin/systemctl start nessusd.service
+Web Nessus: https://localhost:8834/
